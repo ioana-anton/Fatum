@@ -7,8 +7,6 @@
     void yyerror(char* s);
     int yylex();
 
-    
-
 %}
 
 %union{
