@@ -1,0 +1,4 @@
+#define INITIAL_STATUS -1
+
+#define CODE_BAZINGA 1
+#define CODE_ADVENTURER_NAME 2
